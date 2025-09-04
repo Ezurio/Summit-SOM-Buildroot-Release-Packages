@@ -11,9 +11,6 @@
   <project path="buildroot"
            name="wb-buildroot.git" />
 
-  <project path="som-external/externals/kernel"
-           name="wb-kernel.git" />
-
   <project path="som-external/externals/u-boot-som60"
            name="u-boot-som.git" />
 
