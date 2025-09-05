@@ -3,7 +3,7 @@
 
   <remote  name="origin" fetch="https://github.com/Ezurio" />
 
-  <default remote="origin" revision="refs/tags/LRD-REL-13.0.57.12" />
+  <default remote="origin" revision="refs/tags/LRD-REL-13.0.57.14" />
 
   <project path="som-external"
            name="som-external.git" />
