@@ -3,7 +3,7 @@
 
   <remote  name="origin" fetch="https://github.com/Ezurio" />
 
-  <default remote="origin" revision="refs/tags/LRD-REL-13.134.0.2" />
+  <default remote="origin" revision="refs/tags/LRD-REL-13.134.0.17" />
 
   <project path="som-external"
            name="som-external.git" />
@@ -19,6 +19,6 @@
 
   <project path="summit-radio-external"
            name="summit-radio-external.git"
-           revision="lrd-13.98.0.x" />
+           revision="lrd-13.98.12.x" />
 
 </manifest>
